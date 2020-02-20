@@ -1,5 +1,5 @@
 # projects
-University Projects
+CS211 Final project
 // This project implements a mock university
 //it allows faculty, students, departments, and courses to be created as objects via a transaction file
 //faculty can be assigned peronal data and courses
